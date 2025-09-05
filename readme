@@ -15,10 +15,11 @@ Desempenho vs. Consumo de Recursos: Melhorar o desempenho pode aumentar o uso de
 Desenvolvimento Rápido vs. Arquitetura Robusta: Entregar rápido pode prejudicar a estrutura do sistema, que ficará difícil de manter a longo prazo.
 Flexibilidade vs. Controle: Tornar o sistema flexível pode dificultar o controle sobre aspectos como segurança ou desempenho
 
-4- Diagrama de classe UML
+4. Diagrama de classe UML
 
-<img width="2816" height="1536" src="https://github.com/user-attachments/assets/6650a657-6fdb-4d1b-bdb4-8605620854c4" />
-5- Java:
+   <img width="2816" height="1536" src="https://github.com/user-attachments/assets/6650a657-6fdb-4d1b-bdb4-8605620854c4" />
+
+5. Java:
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -149,7 +150,7 @@ class Pedido {
     public void adicionarItem(Livro livro, int quantidade) {
         ItemPedido novoItem = new ItemPedido(livro, quantidade);
         this.itens.add(novo
-6- // Salve este arquivo como "SistemaVendas.java"
+6. // Salve este arquivo como "SistemaVendas.java"
 
 import java.util.ArrayList;
 import java.util.Date;
