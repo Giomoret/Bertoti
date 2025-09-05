@@ -17,7 +17,7 @@ Flexibilidade vs. Controle: Tornar o sistema flexível pode dificultar o control
 
 4- Diagrama de classe UML
 
-   <img width="2816" height="1536" src="https://github.com/user-attachments/assets/6650a657-6fdb-4d1b-bdb4-8605620854c4" />
+<img width="2816" height="1536" src="https://github.com/user-attachments/assets/6650a657-6fdb-4d1b-bdb4-8605620854c4" />
 5- Java:
 import java.util.ArrayList;
 import java.util.Date;
