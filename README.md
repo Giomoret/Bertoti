@@ -289,4 +289,6 @@ class Pedido {
     // Métodos de negócio
     public void adicionarItem(Livro livro, int quantidade) {
         ItemPedido novoItem = new ItemPedido(livro, quantidade);
-        this.itens.add(novo
+        this.itens.add(novo)
+
+   7.
